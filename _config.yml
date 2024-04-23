@@ -105,4 +105,4 @@ theme: maple
 deploy:
   type: git
   repo: git@github.com:linushao/linushao.github.io.git
-  bracnch: master
+  bracnch: main
